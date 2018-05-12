@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38751#The-Irish-Ecclesiastical-Record-Volume-1-November-1864
 gutenberg_bookshelf: The Irish Ecclesiastical Record
 gutenberg_issued: '2012-02-02'
 gutenberg_type: Text
